@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "AI Content Writer",
+    "description": "Generate high-quality blog posts and marketing copy in seconds using advanced neural networks.",
+    "price": 29.99,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "popular",
+    "features": ["Unlimited AI Words", "SEO Optimization", "Plagiarism Checker"],
+    "icon": "/assets1/products/writing_2327400 1.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Studio Pro",
+    "description": "A comprehensive suite for vector design, photo editing, and collaborative prototyping.",
+    "price": 149.00,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["1000+ Assets", "Cloud Sync", "Collaboration Mode"],
+    "icon": "/assets1/products/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "SEO Master Tool",
+    "description": "Track rankings, analyze backlinks, and audit your website performance daily.",
+    "price": 19.50,
+    "period": "monthly",
+    "tag": "Trending",
+    "tagType": "popular",
+    "features": ["Keyword Tracker", "Competitor Audit", "Email Alerts"],
+    "icon": "https://img.icons8.com/fluency/48/combo-chart.png"
+  },
+  {
+    "id": 4,
+    "name": "Cloud Storage Plus",
+    "description": "Securely store your files with end-to-end encryption and fast global access.",
+    "price": 99.99,
+    "period": "yearly",
+    "tag": "Reliable",
+    "tagType": "best seller",
+    "features": ["2TB Storage", "File Versioning", "Mobile App"],
+    "icon": "https://img.icons8.com/fluency/48/cloud-storage.png"
+  },
+  {
+    "id": 5,
+    "name": "Email Automator",
+    "description": "Automate your sales funnel with intelligent email sequences and lead tracking.",
+    "price": 45.00,
+    "period": "monthly",
+    "tag": "Hot",
+    "tagType": "new",
+    "features": ["Smart Sequences", "A/B Testing", "CRM Integration"],
+    "icon": "https://img.icons8.com/fluency/48/filled-sent.png"
+  },
+  {
+    "id": 6,
+    "name": "Security Shield AI",
+    "description": "Protect your digital assets with real-time threat detection and AI-driven firewalls.",
+    "price": 199.00,
+    "period": "yearly",
+    "tag": "Pro Choice",
+    "tagType": "popular",
+    "features": ["Malware Scan", "DDoS Protection", "Instant Recovery"],
+    "icon": "https://img.icons8.com/fluency/48/shield.png"
+  },
+  {
+    "id": 7,
+    "name": "Video Editor X",
+    "description": "Edit professional videos with transitions, effects, and 4K export support.",
+    "price": 59.99,
+    "period": "one-time",
+    "tag": "Limited",
+    "tagType": "best seller",
+    "features": ["4K Support", "Stock Footage", "Audio Library"],
+    "icon": "https://img.icons8.com/fluency/48/video-file.png"
+  },
+  {
+    "id": 8,
+    "name": "Code Snippet Manager",
+    "description": "Organize and share your code snippets across all your devices and teams.",
+    "price": 5.99,
+    "period": "monthly",
+    "tag": "Efficient",
+    "tagType": "new",
+    "features": ["Syntax Support", "Cloud Sync", "Team Sharing"],
+    "icon": "https://img.icons8.com/fluency/48/source-code.png"
+  }
+]
