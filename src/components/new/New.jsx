@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { toast } from 'react-toastify';
 import { motion, AnimatePresence } from 'framer-motion';
+import design from '../../assets1/products/design-tool.png'
 
 const New = ({ setCartCount }) => {
   const [products, setProducts] = useState([]);
