@@ -1,5 +1,5 @@
 import React from 'react';
-
+import bannerimg from '../../assets1/products/banner.png'
 
 const Hero = () => {
   return (
@@ -57,7 +57,7 @@ Explore Products
           <div className="relative rounded-3xl overflow-hidden  ">
             
             <img 
-              src="/assets1/banner.png" 
+              src={bannerimg} 
               alt="Digital Tools Dashboard" 
               className="w-auto h-auto object-cover"
             />

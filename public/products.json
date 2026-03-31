@@ -8,7 +8,7 @@
     "tag": "Best Seller",
     "tagType": "popular",
     "features": ["Unlimited AI Words", "SEO Optimization", "Plagiarism Checker"],
-    "icon": "/assets1/products/writing_2327400 1.png"
+    "icon": "../src/assets1/products/writing_2327400 1.png"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "tag": "New",
     "tagType": "new",
     "features": ["1000+ Assets", "Cloud Sync", "Collaboration Mode"],
-    "icon": "/assets1/products/design-tool.png"
+    "icon": "../src/assets1/products/design-tool.png"
   },
   {
     "id": 3,
