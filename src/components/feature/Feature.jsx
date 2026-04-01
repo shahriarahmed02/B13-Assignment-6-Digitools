@@ -12,7 +12,7 @@ const Feature = () => {
       id: "01",
       title: "Create Account",
       description: "Sign up for free in seconds. No credit card required to get started.",
-      icon: userIcon, // Links directly to imported image
+      icon: userIcon, 
     },
     {
       id: "02",
