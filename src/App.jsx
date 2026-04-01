@@ -8,6 +8,7 @@ import './App.css'
 import './index.css' 
 import Feature from './components/feature/Feature'
 import Pricing from './components/pricing/Priceing'
+import Challenge from './components/challenge/Challenge'
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
       <New setCartCount={setCartCount} />
       <Feature />
       <Pricing />
+      <Challenge />
    </>
       
      

@@ -51,7 +51,7 @@ const Pricing = () => {
     <section className="max-w-[1280px] mx-auto px-6 py-10 bg-white">
       {/* Header */}
       <div className="text-center mb-16 space-y-4">
-        <h2 className="text-4xl md:text-5xl font-black text-slate-900 tracking-tight">
+        <h2 className="text-3xl md:text-5xl font-black text-slate-900 tracking-tight">
           Simple, Transparent Pricing
         </h2>
         <p className="text-slate-500 max-w-lg mx-auto text-sm">
@@ -60,7 +60,7 @@ const Pricing = () => {
       </div>
 
       {/* Pricing Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-center">
+      <div className="grid grid-cols-1 gap-12 mx-4 md:grid-cols-2 gap-8 lg:grid-cols-3 gap-]6 items-center">
         {plans.map((plan, index) => (
           <div
             key={index}
