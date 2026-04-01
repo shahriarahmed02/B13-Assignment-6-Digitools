@@ -9,6 +9,7 @@ import New from './components/new/New'
 // import Footer from './components/Footer'
 import './App.css'
 import './index.css' 
+import Feature from './components/feature/Feature'
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
       <Stats />
      
       <New setCartCount={setCartCount} />
+      <Feature />
  
    </>
       
