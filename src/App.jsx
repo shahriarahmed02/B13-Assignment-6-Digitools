@@ -9,6 +9,7 @@ import './index.css'
 import Feature from './components/feature/Feature'
 import Pricing from './components/pricing/Priceing'
 import Challenge from './components/challenge/Challenge'
+import Footer from './components/footer/Footer'
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
       <Feature />
       <Pricing />
       <Challenge />
+      <Footer />
    </>
       
      

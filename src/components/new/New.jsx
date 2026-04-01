@@ -104,7 +104,7 @@ const New = ({ setCartCount }) => {
 
                 <button 
                   onClick={() => handleAddToCart(product)}
-                  className="w-full py-4 bg-indigo-600 hover:bg-indigo-800 text-white font-bold rounded-2xl transition-all shadow-md active:scale-[0.98]"
+                  className="w-full py-4 bg-indigo-600 hover:bg-indigo-800 text-white font-bold rounded-4xl transition-all shadow-md active:scale-[0.98]"
                 >
                   Buy Now
                 </button>
@@ -142,7 +142,7 @@ const New = ({ setCartCount }) => {
                   <span className="text-slate-500 font-medium">Total:</span>
                   <span className="text-3xl font-black text-slate-900">${totalPrice.toFixed(2)}</span>
                 </div>
-                <button className="w-full py-5 bg-indigo-600  hover:bg-indigo-800 text-white font-black rounded-2xl text-lg shadow-lg shadow-purple-100 transition-all shadow-md active:scale-[0.98]">
+                <button className="w-full py-5 bg-indigo-600  hover:bg-indigo-800 text-white font-black rounded-4xl text-lg shadow-lg shadow-purple-100 transition-all shadow-md active:scale-[0.98]">
                   Proceed To Checkout
                 </button>
               </div>

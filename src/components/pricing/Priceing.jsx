@@ -110,7 +110,7 @@ const Pricing = () => {
 
             {/* Action Button */}
             <button
-              className={`w-full py-4 rounded-2xl font-black transition-all active:scale-[0.98] ${
+              className={`w-full py-4 rounded-4xl font-black transition-all active:scale-[0.98] ${
                 plan.isPopular
                   ? "bg-white text-indigo-600 hover:bg-amber-200 shadow-xl"
                   : "bg-indigo-600 text-white hover:bg-indigo-700 shadow-md"
