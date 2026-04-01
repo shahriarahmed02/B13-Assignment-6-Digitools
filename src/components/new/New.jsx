@@ -6,10 +6,7 @@ const New = ({ setCartCount, activeTab, setActiveTab }) => {
   const [products, setProducts] = useState([]);
   
   // Cart state initialized from LocalStorage
-  const [cart, setCart] = useState(() => {
-    const saved = localStorage.getItem('digi-cart');
-    return saved ? JSON.parse(saved) : [];
-  });
+  const [cart, setCart] = useState([])
 
   // Fetch products from public/products.json
   useEffect(() => {
